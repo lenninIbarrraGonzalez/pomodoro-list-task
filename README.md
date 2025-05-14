@@ -14,7 +14,7 @@ Aplicación Pomodoro con lista de tareas, desarrollada en React y Bootstrap.
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/tu-usuario/pomodoro-list-task-timer.git
+   git clone [https://github.com/tu-usuario/pomodoro-list-task-timer.git](https://github.com/lenninIbarrraGonzalez/pomodoro-list-task.git)
    cd pomodoro-list-task-timer
    ```
 
